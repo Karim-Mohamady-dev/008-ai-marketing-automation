@@ -97,7 +97,7 @@ export const en = {
       {
         "name": "Starter",
         "desc": "For one list and a few campaigns",
-        "price": "{{price_starter}}",
+        "price": "Free",
         "period": "per month",
         "features": [
           "Up to 1,000 contacts",
@@ -109,7 +109,7 @@ export const en = {
       {
         "name": "Growth",
         "desc": "For teams sending every week",
-        "price": "{{price_growth}}",
+        "price": "$19",
         "period": "per month",
         "features": [
           "Up to 10,000 contacts",
@@ -121,7 +121,7 @@ export const en = {
       {
         "name": "Scale",
         "desc": "For several brands or lists",
-        "price": "{{price_scale}}",
+        "price": "$49",
         "period": "per month",
         "features": [
           "Unlimited contacts",
@@ -335,7 +335,7 @@ export const ar = {
       {
         "name": "البداية",
         "desc": "لقائمة واحدة وحملات قليلة",
-        "price": "{{price_starter}}",
+        "price": "مجاني",
         "period": "شهريا",
         "features": [
           "حتى 1,000 جهة اتصال",
@@ -347,7 +347,7 @@ export const ar = {
       {
         "name": "النمو",
         "desc": "للفرق التي ترسل كل أسبوع",
-        "price": "{{price_growth}}",
+        "price": "$19",
         "period": "شهريا",
         "features": [
           "حتى 10,000 جهة اتصال",
@@ -359,7 +359,7 @@ export const ar = {
       {
         "name": "التوسع",
         "desc": "لعلامات أو قوائم متعددة",
-        "price": "{{price_scale}}",
+        "price": "$49",
         "period": "شهريا",
         "features": [
           "جهات اتصال غير محدودة",
